@@ -26,4 +26,4 @@
 **불연속형 vs 연속형**
 - 불연속형: 파란색 / 연속형: 초록색
 
-![ta2](image2.png))
+![ta2](ta_images/image2.png)
