@@ -159,7 +159,8 @@ ex) 수익 상위 10개 도시 집합 생성
 
 <!-- 아래 예시 이미지를 삭제하고, 직접 만든 시트 사진을 올려주세요. 시트의 이름은 본인 이름으로 기입해주세요-->
 
-![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week3-1.png)
+![alt text](https://raw.githubusercontent.com/DArt-B-Official/07_Tableau_Template/main/images/Week3-1.png)
+
 
 ```
 1. 매출 TOP 20 집합 만들기
@@ -182,7 +183,8 @@ ex) 수익 상위 10개 도시 집합 생성
 DATEDIFF('day', [주문 날짜], [배송 날짜])
 ~~~
 
-![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week3-2.png)
+![alt text](https://raw.githubusercontent.com/DArt-B-Official/07_Tableau_Template/main/images/Week3-2.png)
+
 
 >  **그런데 위 그림처럼 '주문 날짜'와 '배송 날짜'를 함께 행에 올려 확인해보니, 주문날짜와 배송날짜의 차이가 '배송까지 걸린 일수'와 다릅니다. ID-2021-11126을 보니, 11월 26일 배송에 11월 30일 배송이면 4일 차이인데, 12일이 걸렸다고 하네요. 왜 이런 문제가 생긴걸까요?**
 
